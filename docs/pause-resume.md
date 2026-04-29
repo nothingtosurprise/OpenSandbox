@@ -489,5 +489,5 @@ kubectl logs -n opensandbox-system deployment/opensandbox-controller-manager
 
 - **Documentation**: [OpenSandbox GitHub](https://github.com/alibaba/OpenSandbox)
 - **Issues**: [GitHub Issues](https://github.com/alibaba/OpenSandbox/issues)
-- **Design Document**: [OSEP-0008](../oseps/0008-pause-resume-rootfs-snapshot.md)
+- **Design Document**: [OSEP-0008](/oseps/0008-pause-resume-rootfs-snapshot)
 - **Kubernetes controller**: [`kubernetes/README.md`](../kubernetes/README.md#pause-and-resume-rootfs-snapshot)
